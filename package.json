@@ -1,6 +1,6 @@
 {
   "name": "react-globalize",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Bringing the i18n functionality of Globalize, backed by CLDR, to React",
   "main": "dist/index.js",
   "files": [
@@ -33,10 +33,6 @@
   "license": "MIT",
   "repository": "kborchers/react-globalize",
   "bugs": "https://github.com/kborchers/react-globalize/issues",
-  "dependencies": {
-    "globalize": ">= 1.0.0",
-    "react": ">= 0.13.0 < 1.0.0"
-  },
   "peerDependencies": {
     "globalize": ">= 1.0.0 || 1.1.0-alpha - 1.1.x",
     "react": ">= 0.13.0 < 1.0.0"
