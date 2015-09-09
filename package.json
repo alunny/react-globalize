@@ -34,7 +34,7 @@
   "repository": "kborchers/react-globalize",
   "bugs": "https://github.com/kborchers/react-globalize/issues",
   "peerDependencies": {
-    "globalize": ">= 1.0.0 || 1.1.0-alpha - 1.1.x",
+    "globalize": "1.1.0-rc.2",
     "react": ">= 0.13.0 < 1.0.0"
   },
   "devDependencies": {
